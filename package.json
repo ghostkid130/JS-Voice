@@ -1,0 +1,14 @@
+{
+  "name": "JS-Voice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ghostkid130/JS-Voice.git",
+  "author": "ghostkid130 <urena.reynold+git@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.3.1"
+  },
+  "scripts": {
+    "start": "cd client && yarn start"
+  }
+}
